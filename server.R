@@ -4,7 +4,7 @@
 #
 # http://shiny.rstudio.com
 #
-source("do_prereqs.r")
+#source("do_prereqs.r")
 require(shiny)
 
 
